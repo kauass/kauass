@@ -37,5 +37,5 @@
 
 <!-- Snake animation (GitHub contribution graph) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kauass/kauass/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/kauass/kauass/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
